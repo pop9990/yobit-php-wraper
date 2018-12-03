@@ -26,6 +26,11 @@ $trades = $api->trades($pair);<br><br>
 <h3>getInfo</h3>
 Function  returns information about user's balances and priviledges of API-key as well as server time.<br><br>
 $getInfo = getInfo($pairs);<br>
+<h3>Balance</h3>
+Get total balances, including reserved in orders.<br><br>
+$balances = $api->balance();
+<h3>Avilable balance</h3>
+$avilableBalances =$api->avilableBalance();
 <h3>Trade</h3>
 <h4>Buy</h4>
 $buy=$api->buy($pair, $amount, $rate);
