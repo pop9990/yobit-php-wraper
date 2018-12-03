@@ -55,7 +55,7 @@
 				$ch = curl_init();
 				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 				curl_setopt($ch, CURLOPT_USERAGENT, 
-					'Mozilla/4.0 (compatible; Poloniex PHP bot; '.php_uname('a').'; PHP/'.phpversion().')'
+					'Mozilla/4.0 (compatible; yoBit PHP bot; '.php_uname('a').'; PHP/'.phpversion().')'
 				);
 			}
 			curl_setopt($ch, CURLOPT_URL, $this->trading_url);
