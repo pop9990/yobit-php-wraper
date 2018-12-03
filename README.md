@@ -52,9 +52,9 @@ $getDepositAdress = $api->getDepositAddress($coin,1);
 Creates withdrawal request.<br><br>
 $withdrawal = $api->withdraw($coin, $amount, $adress);<br><br>
 That is all.I hope I was helpful:)<br><br>
-	//BTC: 17HV8gPV9atBi5KjFCe6r2NDtwqLHaq2Ji
-	//LTC: LXPTJW8eJMHQVzwnJbY7ukfQ6sM6pJpJe1
-	//ETH: 0x0921eeed3f8dbf8da2e587e8c648a6f546c4ffe4
+	BTC: 17HV8gPV9atBi5KjFCe6r2NDtwqLHaq2Ji<br>
+	LTC: LXPTJW8eJMHQVzwnJbY7ukfQ6sM6pJpJe1<br>
+	ETH: 0x0921eeed3f8dbf8da2e587e8c648a6f546c4ffe4<br>
 
 		
 
