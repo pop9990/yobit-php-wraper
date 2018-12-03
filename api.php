@@ -1,7 +1,6 @@
 <?php
-	// YoBit php wrapper created by pop999	
-	// I am not test withdrow functions only. If you test and feedback me, that will be nice
-	// Everything other are testeted
+	// YoBit php api wrapper created by pop999		
+	// Code is testeted
 	//BTC: 17HV8gPV9atBi5KjFCe6r2NDtwqLHaq2Ji
 	//LTC: LXPTJW8eJMHQVzwnJbY7ukfQ6sM6pJpJe1
 	//ETH: 0x0921eeed3f8dbf8da2e587e8c648a6f546c4ffe4
