@@ -35,7 +35,7 @@ $avilableBalances =$api->avilableBalance();
 <h4>Buy</h4>
 $buy=$api->buy($pair, $amount, $rate);
 <h4>Sell</h4>
-$sell $api->sell($pair, $amount, $rate);
+$sell = $api->sell($pair, $amount, $rate);
 <h3>Open orders</h3>
 Function returns list of user's active orders.<br><br>
 $openOrders = $api->openOrders($pair);
